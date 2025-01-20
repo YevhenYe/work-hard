@@ -1,0 +1,12 @@
+
+a{color:inherit;}
+:root{
+  --title-text-color:#212121;
+  --primary-text-color:#757575;
+  --accent-color:#2196F3;
+  --primary-bg-color:#F5F4FA;
+}
+
+body {
+color:var(--primary-text-color)
+}
